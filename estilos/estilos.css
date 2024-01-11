@@ -1,0 +1,159 @@
+@font-face {
+    font-family: letra-dream-bd;
+    src: url(../assets/tipografias/Dream\ Orphans\ Bd.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header {
+    background-color: black;
+    padding: auto;
+    display: flex;
+    min-height: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    width: 200px;
+}
+
+.logo img {
+    margin-right: auto;
+}
+
+/* #menuBurger{
+    color: white;
+} */
+
+h1 {
+    color: rgba(233, 222, 207, 0.973);
+    font-family: letra-dream-bd;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+nav {
+    float: right;
+    background-color: black;
+    
+    
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 75px;
+    padding: 12px 0;
+    float: left;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+main {
+    background-color: rgba(181, 186, 190, 0.664);
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagen-index {
+    margin-right: 25px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    margin: 25px;
+    padding: 25px 25;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    background-color: rgb(222, 230, 230);
+    color: rgb(5, 146, 146);
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    margin: 12px;
+    padding: 20px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+.imagen-terapias {
+    display: flex;
+    justify-content: center;
+}
+
+.segundo-parrafo-biomagnetismo {
+    background-color: aliceblue;
+    padding: 25px;
+}
+
+.parrafo-terapeutas {
+    text-align: botton;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.imagen-galeria {
+    width: 100px;
+    margin: 5px;
+
+}
+
+.div-contacto-mapa {
+    display: flex;
+    justify-content: left;
+    margin: right 25px;
+    width: 300px;
+    padding: 25px;
+}
+
+.formulario {
+    display: flex;
+    justify-content: right;
+}
+
+.parrafo-formulario {
+    display: flex;
+    justify-content: top;
+}
+
+footer{
+    background-color: gray;
+} */
+
+
+/* barra-de-navegacion */
+
+.efecto-nav:hover {
+    color: rgb(24, 154, 206);
+}
+
+@media (max-width: 575.98px) {
+    body    
+}
